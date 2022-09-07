@@ -1,7 +1,24 @@
-div {
-    color: white;
-    background-color: black;
+.header {
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
 }
-p {
-    color: red;
+.header:hover {
+    color: darkcyan;
+    font-size: 42px;
+}
+
+.images {
+    width: 400px;
+    height: auto;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    background-color:rgb(243, 165, 168);
+    color:black;
+}
+.titles {
+    color: darkblue;
 }
